@@ -1,1 +1,1 @@
-Cornell Movie Dialogues Corpus Dataset
+Cornell Movie Dialogs Corpus Dataset
