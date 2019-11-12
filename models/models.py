@@ -161,7 +161,7 @@ class Generator:
                 '   ', '\n'
             ).replace(' ', '').replace('\n', ' ')
 
-            print(cleaned_text)
+            #print(cleaned_text)
             output.append(cleaned_text)
 
         return output
