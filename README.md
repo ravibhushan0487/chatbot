@@ -1,3 +1,2 @@
-Cornell Movie Dialogs Corpus Dataset
-
-Haiku Poems
+This project is under development.
+For a working code of chatbot see the ODO project.
